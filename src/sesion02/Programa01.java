@@ -2,7 +2,7 @@ package sesion02;
 
 import java.util.Scanner;
 
-public class Programa04 {
+public class Programa01 {
 
     public static void main(String[] args) {
         //Declarando variables
